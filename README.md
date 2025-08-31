@@ -97,6 +97,11 @@
 ### Пример графика 
 ![Топ-10 каналов по CTR](reports/top_channels_ctr.png)
 
+### Пример report.md
+<img width="1166" height="706" alt="1" src="https://github.com/user-attachments/assets/74bd283d-e148-46f8-8a1b-4ea282947f86" />
+<img width="1152" height="181" alt="2" src="https://github.com/user-attachments/assets/ede87519-8a26-4f85-a81e-caa632e025f2" />
+
+
 ## Автоматический запуск с помощью cron
 
 ### 1. Открываем crontab:
